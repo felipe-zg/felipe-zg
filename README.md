@@ -14,8 +14,8 @@
 
 ### How to reach me:
 
-[<img align="left" alt="felipezeba.com" width="80px" height="20px" src="https://img.shields.io/static/v1?label=&message=whatsapp&color=%23008000&logo=whatsapp&logoColor=%23fff" />][website]
-[<img align="left" alt="felipezeba.com" width="80px" height="20px" src="https://img.shields.io/static/v1?label=&message=e-mail&color=%230078D4&logo=Minutemailer&logoColor=%23fff" />][website]
+[<img align="left" alt="felipezeba.com" width="80px" height="23px" src="https://img.shields.io/static/v1?label=&message=whatsapp&color=%23008000&logo=whatsapp&logoColor=%23fff" />][website]
+[<img align="left" alt="felipezeba.com" width="80px" height="23px" src="https://img.shields.io/static/v1?label=&message=e-mail&color=%230078D4&logo=Mail.Ru&logoColor=%23fff" />][website]
 
 <br />
 
