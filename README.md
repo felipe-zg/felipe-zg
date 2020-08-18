@@ -14,8 +14,8 @@
 
 ### How to reach me:
 
-[<img align="left" alt="felipezeba.com" width="80px" height="23px" src="https://img.shields.io/static/v1?label=&message=whatsapp&color=%23008000&logo=whatsapp&logoColor=%23fff" />][website]
-[<img align="left" alt="felipezeba.com" width="80px" height="23px" src="https://img.shields.io/static/v1?label=&message=e-mail&color=%230078D4&logo=Mail.Ru&logoColor=%23fff" />][website]
+[<img align="left" alt="felipezeba.com" width="80px" height="23px" src="https://img.shields.io/static/v1?label=&message=whatsapp&color=%23008000&logo=whatsapp&logoColor=%23fff" />][whatsapp]
+[<img align="left" alt="felipezeba.com" width="80px" height="23px" src="https://img.shields.io/static/v1?label=&message=e-mail&color=%230078D4&logo=Mail.Ru&logoColor=%23fff" />][outlook]
 
 <br />
 
@@ -68,6 +68,8 @@
 [linkedin]: https://www.linkedin.com/in/felipe-zeba
 [instagram]: https://www.instagram.com/felipezeba/
 [twitter]: https://twitter.com/FelipeZba
+[whatsapp]: https://api.whatsapp.com/send?phone=5522998954511&text=Ol%C3%A1!
+[outlook]: mailto:felipe_zeba@outlook.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
