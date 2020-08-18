@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to walk my dog and play the guitar
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.felipe-zg.vercel.app/api/spotify-playing" alt="felipe's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://novatorem.felipe-zg.vercel.app/api/spotify-playing" alt="felipe's Spotify Playing" width="350" />](https://open.spotify.com/user/felipezeba?si=LMAiqnGxTlCEp7k4MMA7Ow)
 
 ### How to reach me:
 
