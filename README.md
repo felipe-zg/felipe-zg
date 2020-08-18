@@ -10,18 +10,21 @@
 - ⚡ Fun fact: I love to walk my dog and play the guitar
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://novatorem.felipe-zg.vercel.app/api/spotify-playing" alt="felipe's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### How to reach me:
 
-![Whatsapp URL](https://img.shields.io/twitter/url?color=%23008000&label=whatsapp&style=social&url=https%3A%2F%2Ftwitter.com%2Fhome%3Flang%3Dpt)
+[<img align="left" alt="felipezeba.com" width="80px" height="20px" src="https://img.shields.io/static/v1?label=&message=whatsapp&color=%23008000&logo=whatsapp&logoColor=%23fff" />][website]
+[<img align="left" alt="felipezeba.com" width="80px" height="20px" src="https://img.shields.io/static/v1?label=&message=e-mail&color=%230078D4&logo=Minutemailer&logoColor=%23fff" />][website]
+
+<br />
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="felipezeba.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="felipezeba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="felipezeba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="felipezeba | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -47,24 +50,19 @@
 
 ---
 
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipe-zg&count_private=true&show_icons=true)
+
+
+
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-zg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipe-zg&count_private=true&show_icons=true)
-
-</details>
-
-<details>
-  <summary>:zap: Top languages</summary>
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-zg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
