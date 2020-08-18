@@ -1,9 +1,9 @@
 ### Hi there, I'm Felipe 👋
 
 
-## I'm a mobile developer, technology enthusiastand i love teaching other people!
+## I'm a mobile software developer, technology enthusiast and i love teaching other people!
 
-- 🔭 I’m currently working on a react native project!
+- 🔭 I’m currently working on cool projects with react native!
 - 🌱 I’m currently learning everything 🤣. Just kidding, i'm learning swift at the moment
 - 👯 I’m looking to collaborate with other developers on some big ideas i got in mind
 - 🥅 2020 Goals: Contribute to Open Source projects, perhaps build my own lib to share with the community
@@ -50,13 +50,11 @@
 
 ---
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipe-zg&count_private=true&show_icons=true)
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipe-zg&count_private=true&show_icons=true)
+---
 
-
-
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-zg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-zg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details>
