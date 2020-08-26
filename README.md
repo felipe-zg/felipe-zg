@@ -57,13 +57,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-zg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-  <!--START_SECTION:activity-->
-
-</details>
-
 [website]: https://felipezeba.netlify.com
 [linkedin]: https://www.linkedin.com/in/felipe-zeba
 [instagram]: https://www.instagram.com/felipezeba/
